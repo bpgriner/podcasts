@@ -22,7 +22,7 @@ Somewhat Frequent Listener of:
 - WTF w/ Marc Maron - http://www.wtfpod.com
 
 Other:
-- Mystery Show (Discontinued) - https://gimletmedia.com/show/mystery-show
+- Mystery Show (discontinued) - https://gimletmedia.com/show/mystery-show
 - Gimlet Media (multiple podcasts) - https://gimletmedia.com
 - Radiolab - http://www.radiolab.org/series/podcasts
 - This American Life - http://www.thisamericanlife.org/podcast
