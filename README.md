@@ -6,8 +6,6 @@
 # Frequent Listener of:
 - This Week in Tech (TWiT) - https://twit.tv/shows/this-week-in-tech
 - Reply All - https://gimletmedia.com/show/reply-all
-- Bill Simmons - https://soundcloud.com/the-bill-simmons-podcast
-- Pardon My Take - http://www.podcastone.com/pardon-my-take
 - Planet Money - http://www.npr.org/podcasts/510289/planet-money
 
 # Somewhat Frequent Listener of:
@@ -20,6 +18,8 @@
 - Joe Rogan - http://podcasts.joerogan.net
 - The Minimalists - http://www.theminimalists.com/podcast
 - WTF w/ Marc Maron - http://www.wtfpod.com
+- Bill Simmons - https://soundcloud.com/the-bill-simmons-podcast
+- Pardon My Take - http://www.podcastone.com/pardon-my-take
 
 # Other:
 - Mystery Show (discontinued) - https://gimletmedia.com/show/mystery-show
